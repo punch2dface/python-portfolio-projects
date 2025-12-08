@@ -1,2 +1,8 @@
 My first file from Python!
 This is an appended line.
+3
+4
+5
+6
+7
+8
